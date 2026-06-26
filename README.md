@@ -16,11 +16,6 @@ Email : mahasiswa@gmail.com
 Password : password
 
 
-## Link Hosting
-
-URL Aplikasi :
-https://nurarifah.ifalgorithm24.web.id/
-
 ## Penjelasan Fungsi Halaman
 
 ### 1. Login
@@ -63,13 +58,10 @@ Digunakan untuk keluar dari aplikasi dan mengakhiri sesi pengguna.
 
 Screenshot setiap halaman aplikasi disimpan pada folder:
 
-screenshots/
-
-- dashboard.png
-- dosen.png
-- erd.png 
-- jadwal.png
-- krs.png
-- login.png
-- mahasiswa.png
-- matakuliah.png
+<img src="assets/login.png">
+<img src="assets/dashboard.png">
+<img src="assets/dosen.png">
+<img src="assets/jadwal.png">
+<img src="assets/krs.png">
+<img src="assets/mahasiswa.png">
+<img src="assets/matakuliah.png">
