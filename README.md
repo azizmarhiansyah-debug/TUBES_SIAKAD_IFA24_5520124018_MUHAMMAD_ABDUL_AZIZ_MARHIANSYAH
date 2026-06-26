@@ -58,10 +58,10 @@ Digunakan untuk keluar dari aplikasi dan mengakhiri sesi pengguna.
 
 Screenshot setiap halaman aplikasi disimpan pada folder:
 
-<img src="assets/login.png">
-<img src="assets/dashboard.png">
-<img src="assets/dosen.png">
-<img src="assets/jadwal.png">
-<img src="assets/krs.png">
-<img src="assets/mahasiswa.png">
-<img src="assets/matakuliah.png">
+<img src="screenshots/login.png">
+<img src="screenshots/dashboard.png">
+<img src="screenshots/dosen.png">
+<img src="screenshots/jadwal.png">
+<img src="screenshots/krs.png">
+<img src="screenshots/mahasiswa.png">
+<img src="screenshots/matakuliah.png">
